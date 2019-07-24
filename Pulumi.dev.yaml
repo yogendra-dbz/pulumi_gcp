@@ -1,0 +1,4 @@
+config:
+  gcp:project: hardy-nation-237215
+  gcp:region: us-east1
+  pulumi:template: gcp-javascript
